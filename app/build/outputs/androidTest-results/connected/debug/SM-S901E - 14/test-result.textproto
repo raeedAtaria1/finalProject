@@ -1,0 +1,187 @@
+# 2024-06-09T11:38:38.212442600Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 3
+}
+test_status: FAILED
+test_result {
+  test_case {
+    test_class: "GestureRecognizerTest"
+    test_package: "com.google.mediapipe.examples.gesturerecognizer"
+    test_method: "recognizerVideoModeResultFallsWithinAcceptedRange"
+    start_time {
+      seconds: 1717933104
+      nanos: 835000000
+    }
+    end_time {
+      seconds: 1717933116
+      nanos: 2000000
+    }
+  }
+  test_status: FAILED
+  error {
+    error_message: "org.junit.ComparisonFailure: expected:<[Thumb_Up]> but was:<[]>\nat org.junit.Assert.assertEquals(Assert.java:115)\nat org.junit.Assert.assertEquals(Assert.java:144)\nat com.google.mediapipe.examples.gesturerecognizer.GestureRecognizerTest.recognizerVideoModeResultFallsWithinAcceptedRange(GestureRecognizerTest.kt:193)\n"
+    error_type: "org.junit.ComparisonFailure"
+    stack_trace: "org.junit.ComparisonFailure: expected:<[Thumb_Up]> but was:<[]>\nat org.junit.Assert.assertEquals(Assert.java:115)\nat org.junit.Assert.assertEquals(Assert.java:144)\nat com.google.mediapipe.examples.gesturerecognizer.GestureRecognizerTest.recognizerVideoModeResultFallsWithinAcceptedRange(GestureRecognizerTest.kt:193)\n"
+  }
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Hp\\EarthKeepers\\app\\build\\outputs\\androidTest-results\\connected\\debug\\SM-S901E - 14\\logcat-com.google.mediapipe.examples.gesturerecognizer.GestureRecognizerTest-recognizerVideoModeResultFallsWithinAcceptedRange.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Hp\\EarthKeepers\\app\\build\\outputs\\androidTest-results\\connected\\debug\\SM-S901E - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Hp\\EarthKeepers\\app\\build\\outputs\\androidTest-results\\connected\\debug\\SM-S901E - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Hp\\EarthKeepers\\app\\build\\outputs\\androidTest-results\\connected\\debug\\SM-S901E - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "GestureRecognizerTest"
+    test_package: "com.google.mediapipe.examples.gesturerecognizer"
+    test_method: "recognizerLiveStreamModeResultFallsWithinAcceptedRange"
+    start_time {
+      seconds: 1717933116
+      nanos: 17000000
+    }
+    end_time {
+      seconds: 1717933116
+      nanos: 309000000
+    }
+  }
+  test_status: FAILED
+  error {
+    error_message: "java.lang.AssertionError: expected:<0.8105> but was:<0.68669176>\nat org.junit.Assert.fail(Assert.java:88)\nat org.junit.Assert.failNotEquals(Assert.java:834)\nat org.junit.Assert.assertEquals(Assert.java:575)\nat org.junit.Assert.assertEquals(Assert.java:700)\nat com.google.mediapipe.examples.gesturerecognizer.GestureRecognizerTest.recognizerLiveStreamModeResultFallsWithinAcceptedRange(GestureRecognizerTest.kt:130)\n"
+    error_type: "java.lang.AssertionError"
+    stack_trace: "java.lang.AssertionError: expected:<0.8105> but was:<0.68669176>\nat org.junit.Assert.fail(Assert.java:88)\nat org.junit.Assert.failNotEquals(Assert.java:834)\nat org.junit.Assert.assertEquals(Assert.java:575)\nat org.junit.Assert.assertEquals(Assert.java:700)\nat com.google.mediapipe.examples.gesturerecognizer.GestureRecognizerTest.recognizerLiveStreamModeResultFallsWithinAcceptedRange(GestureRecognizerTest.kt:130)\n"
+  }
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Hp\\EarthKeepers\\app\\build\\outputs\\androidTest-results\\connected\\debug\\SM-S901E - 14\\logcat-com.google.mediapipe.examples.gesturerecognizer.GestureRecognizerTest-recognizerLiveStreamModeResultFallsWithinAcceptedRange.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Hp\\EarthKeepers\\app\\build\\outputs\\androidTest-results\\connected\\debug\\SM-S901E - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Hp\\EarthKeepers\\app\\build\\outputs\\androidTest-results\\connected\\debug\\SM-S901E - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Hp\\EarthKeepers\\app\\build\\outputs\\androidTest-results\\connected\\debug\\SM-S901E - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "GestureRecognizerTest"
+    test_package: "com.google.mediapipe.examples.gesturerecognizer"
+    test_method: "recognizerImageModeResultFallsWithinAcceptedRange"
+    start_time {
+      seconds: 1717933116
+      nanos: 313000000
+    }
+    end_time {
+      seconds: 1717933116
+      nanos: 602000000
+    }
+  }
+  test_status: FAILED
+  error {
+    error_message: "org.junit.ComparisonFailure: expected:<[Thumb_Up]> but was:<[closed_palm]>\nat org.junit.Assert.assertEquals(Assert.java:115)\nat org.junit.Assert.assertEquals(Assert.java:144)\nat com.google.mediapipe.examples.gesturerecognizer.GestureRecognizerTest.recognizerImageModeResultFallsWithinAcceptedRange(GestureRecognizerTest.kt:233)\n"
+    error_type: "org.junit.ComparisonFailure"
+    stack_trace: "org.junit.ComparisonFailure: expected:<[Thumb_Up]> but was:<[closed_palm]>\nat org.junit.Assert.assertEquals(Assert.java:115)\nat org.junit.Assert.assertEquals(Assert.java:144)\nat com.google.mediapipe.examples.gesturerecognizer.GestureRecognizerTest.recognizerImageModeResultFallsWithinAcceptedRange(GestureRecognizerTest.kt:233)\n"
+  }
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Hp\\EarthKeepers\\app\\build\\outputs\\androidTest-results\\connected\\debug\\SM-S901E - 14\\logcat-com.google.mediapipe.examples.gesturerecognizer.GestureRecognizerTest-recognizerImageModeResultFallsWithinAcceptedRange.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Hp\\EarthKeepers\\app\\build\\outputs\\androidTest-results\\connected\\debug\\SM-S901E - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Hp\\EarthKeepers\\app\\build\\outputs\\androidTest-results\\connected\\debug\\SM-S901E - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Hp\\EarthKeepers\\app\\build\\outputs\\androidTest-results\\connected\\debug\\SM-S901E - 14\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "C:\\Users\\Hp\\EarthKeepers\\app\\build\\outputs\\androidTest-results\\connected\\debug\\SM-S901E - 14\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

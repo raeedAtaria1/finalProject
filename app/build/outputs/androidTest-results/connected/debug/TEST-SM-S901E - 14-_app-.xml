@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.google.mediapipe.examples.gesturerecognizer.GestureRecognizerTest" tests="3" failures="3" errors="0" skipped="0" time="13.308" timestamp="2024-06-09T11:38:38" hostname="localhost">
+  <properties>
+    <property name="device" value="SM-S901E - 14" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="recognizerVideoModeResultFallsWithinAcceptedRange" classname="com.google.mediapipe.examples.gesturerecognizer.GestureRecognizerTest" time="11.09">
+    <failure>org.junit.ComparisonFailure: expected:&lt;[Thumb_Up]&gt; but was:&lt;[]&gt;
+at org.junit.Assert.assertEquals(Assert.java:115)
+at org.junit.Assert.assertEquals(Assert.java:144)
+at com.google.mediapipe.examples.gesturerecognizer.GestureRecognizerTest.recognizerVideoModeResultFallsWithinAcceptedRange(GestureRecognizerTest.kt:193)
+</failure>
+  </testcase>
+  <testcase name="recognizerLiveStreamModeResultFallsWithinAcceptedRange" classname="com.google.mediapipe.examples.gesturerecognizer.GestureRecognizerTest" time="0.287">
+    <failure>java.lang.AssertionError: expected:&lt;0.8105&gt; but was:&lt;0.68669176&gt;
+at org.junit.Assert.fail(Assert.java:88)
+at org.junit.Assert.failNotEquals(Assert.java:834)
+at org.junit.Assert.assertEquals(Assert.java:575)
+at org.junit.Assert.assertEquals(Assert.java:700)
+at com.google.mediapipe.examples.gesturerecognizer.GestureRecognizerTest.recognizerLiveStreamModeResultFallsWithinAcceptedRange(GestureRecognizerTest.kt:130)
+</failure>
+  </testcase>
+  <testcase name="recognizerImageModeResultFallsWithinAcceptedRange" classname="com.google.mediapipe.examples.gesturerecognizer.GestureRecognizerTest" time="0.287">
+    <failure>org.junit.ComparisonFailure: expected:&lt;[Thumb_Up]&gt; but was:&lt;[closed_palm]&gt;
+at org.junit.Assert.assertEquals(Assert.java:115)
+at org.junit.Assert.assertEquals(Assert.java:144)
+at com.google.mediapipe.examples.gesturerecognizer.GestureRecognizerTest.recognizerImageModeResultFallsWithinAcceptedRange(GestureRecognizerTest.kt:233)
+</failure>
+  </testcase>
+</testsuite>

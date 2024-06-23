@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">1078289571967</string>
+    <string name="google_api_key" translatable="false">AIzaSyAX--kXsah_UQPq0HbMuBmoRd96joNBU30</string>
+    <string name="google_app_id" translatable="false">1:1078289571967:android:64ab33903beda4c7489f4a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAX--kXsah_UQPq0HbMuBmoRd96joNBU30</string>
+    <string name="google_storage_bucket" translatable="false">earth-keepers.appspot.com</string>
+    <string name="project_id" translatable="false">earth-keepers</string>
+</resources>

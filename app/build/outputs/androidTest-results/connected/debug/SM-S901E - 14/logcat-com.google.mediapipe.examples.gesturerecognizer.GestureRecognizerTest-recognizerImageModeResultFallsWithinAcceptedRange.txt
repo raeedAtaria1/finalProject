@@ -1,0 +1,98 @@
+06-09 14:38:36.440 16470 16522 I TestRunner: started: recognizerImageModeResultFallsWithinAcceptedRange(com.google.mediapipe.examples.gesturerecognizer.GestureRecognizerTest)
+06-09 14:38:36.441 28449 31291 D SemContextService: lock : registerCallback
+06-09 14:38:36.454 21118 15578 D C2SoftVpxEnc: bytes generated 1312
+06-09 14:38:36.454 28449 31291 W CAE     : registerCallback(ContextAwareService.java:188) - [regi 01] Mutex is locked for TEST_FLAT_MOTION
+06-09 14:38:36.455 28449 31291 W CAE     : registerCallback(ContextAwareService.java:195) - [regi 04]  com.samsung.android.contextaware.ContextAwareManager$CaListenerDelegate@a923ee6
+06-09 14:38:36.455 28449 31291 W CAE     : getListener(ListenerListManager.java:127) - [getListener1]  com.samsung.android.contextaware.ContextAwareManager$CaListenerDelegate@a923ee6
+06-09 14:38:36.455 28449 31291 W CAE     : getListener(ListenerListManager.java:128) - [getListener2]  com.samsung.android.contextaware.manager.ContextAwareService$Listener@1d9941
+06-09 14:38:36.457 28449 31291 V CAE     : start(ContextProvider.java:128)
+06-09 14:38:36.458 28449 31291 V CAE     : clear(TestFlatMotionRunner.java:126)
+06-09 14:38:36.458 28449 31291 V CAE     : enable(TestFlatMotionRunner.java:102)
+06-09 14:38:36.460 28449 28656 D SensorService: setSContextDataLocked ints length 2 , byte length 4
+06-09 14:38:36.460 28449 28656 D SensorService: setSContextDataLocked 17b1
+06-09 14:38:36.461 28086 28086 I sensors-hal: inject_sensor_data:548, handle 1501 send inject
+06-09 14:38:36.461 28086 28086 I sensors-hal: sendContextData:282, sensor hal 4, (0xb1, 0x17, 0x0, 0x0)
+06-09 14:38:36.461 28086 28086 I sensors-hal: sendContextData:340, enable:177, handle:8, algo:25231360
+06-09 14:38:36.463 28086 28086 E sensors-hal: is_restrict_mode:134, fread fail
+06-09 14:38:36.463 28086 28086 I sensors-hal: sendContextData:106, device_position 4
+06-09 14:38:36.463 28086 28086 I sensors-hal: get_qmi_debug_flag:239, support_qmi_debug : false
+06-09 14:38:36.465  1436  1487 E minksocket: MinkIPC_QRTR_Service: client with node 1 port 5ec6 went down
+06-09 14:38:36.467  1436  1487 E minksocket: MinkIPC_QRTR_Service: client with node 1 port 5ec7 went down
+06-09 14:38:36.469  1436  1487 E minksocket: MinkIPC_QRTR_Service: client with node 1 port 5ec8 went down
+06-09 14:38:36.470  1436  1487 E minksocket: MinkIPC_QRTR_Service: client with node 1 port 5ec9 went down
+06-09 14:38:36.472 28086 28086 I sensors-hal: create_sensor_config_request:46, device_position create_sensor_config_request
+06-09 14:38:36.472 28086 28086 I sensors-hal: send_sensor_config_request:578, dt=device_position: convert sample_period=0 to batch_period=0
+06-09 14:38:36.473 28086 28086 I sensors-hal: send_sync_sensor_request:450, send sync request
+06-09 14:38:36.473 28086 28086 I sensors-hal: send_sync_sensor_request:476, wait for notification of response
+06-09 14:38:36.475 28086 19200 I sensors-hal: ssc_conn_resp_cb:835, resp_value = 0
+06-09 14:38:36.475 28086 28086 I sensors-hal: send_sync_sensor_request:482, takes 1 ms to receive the response with 0
+06-09 14:38:36.476 28449 31291 D CAE     : getFaultDetectionResult(TestFlatMotionRunner.java:139) - true
+06-09 14:38:36.477 28449 31291 I CAE     : notifyCmdProcessResultObserver(ContextProvider.java:627) - CheckResult = 0, Cause = Success
+06-09 14:38:36.479 28449 31291 D CAE     : doCommendProcess(ContextAwareService.java:396) - complete notify the operation result.
+06-09 14:38:36.479 28449 31291 I CAE     : displayUsedCountForService(ContextAwareService.java:460) - totalCnt = 1, serviceCount = 1, subCollectionCount = 0
+06-09 14:38:36.480 28449 31291 D CAE     : showListenerList(ContextAwareService.java:325) - ===== Context Aware Service List =====
+06-09 14:38:36.480 28449 31291 I CAE     : showListenerList(ContextAwareService.java:334) - Listener : com.samsung.android.contextaware.manager.ContextAwareService$Listener@1d9941, Service : ACTIVITY_TRACKER_BATCH(1)
+06-09 14:38:36.480 28449 31291 I CAE     : showListenerList(ContextAwareService.java:334) - Listener : com.samsung.android.contextaware.manager.ContextAwareService$Listener@1d9941, Service : SLOCATION_RUNNER(1)
+06-09 14:38:36.480 28449 31291 I CAE     : showListenerList(ContextAwareService.java:334) - Listener : com.samsung.android.contextaware.manager.ContextAwareService$Listener@1d9941, Service : CH_LOC_TRIGGER(1)
+06-09 14:38:36.480 28449 31291 I CAE     : showListenerList(ContextAwareService.java:334) - Listener : com.samsung.android.contextaware.manager.ContextAwareService$Listener@1d9941, Service : FREE_FALL_DETECTION(1)
+06-09 14:38:36.481 28449 31291 I CAE     : showListenerList(ContextAwareService.java:334) - Listener : com.samsung.android.contextaware.manager.ContextAwareService$Listener@1d9941, Service : TEST_FLAT_MOTION(1)
+06-09 14:38:36.481 28449 31291 W CAE     : registerCallback(ContextAwareService.java:209) - [regi 02] Mutex is unlocked for TEST_FLAT_MOTION
+06-09 14:38:36.481 28449 31291 E SemContext.CaeProvider: setAttribute() : attribute is null!
+06-09 14:38:36.481 28449 31291 D SemContextService: 	.registerCallback : 5, client= com.sec.android.sdhms
+06-09 14:38:36.481 28449 31291 D SemContextService: unlock : registerCallback
+06-09 14:38:36.483 28449 31291 E SensorService: BigData:Pakage) 5 already enabled.
+06-09 14:38:36.542 16470 19203 I tflite  : Replacing 272 out of 272 node(s) with delegate (TfLiteXNNPackDelegate) node, yielding 1 partitions for the whole graph.
+06-09 14:38:36.554 21118 15578 D C2SoftVpxEnc: bytes generated 1312
+06-09 14:38:36.561 16470 19213 I tflite  : Replacing 165 out of 165 node(s) with delegate (TfLiteXNNPackDelegate) node, yielding 1 partitions for the whole graph.
+06-09 14:38:36.567 28086 28086 D SensorsFlicker: Als_common::setDelay, handle : 1 time : 10000000ns
+06-09 14:38:36.568 28086 19198 I sensors-hal: handle_indication_realtime:467,  SCHED_FIFO(10) for qmi_cbk
+06-09 14:38:36.568 28086 19198 I sensors-hal: handle_sns_std_sensor_event:135, [SSC_LIGHT] A: 182(182),m:7,c:91,b:54,c0:8496,l:183,r:76,bl:79,j:165
+06-09 14:38:36.570 28086 28086 D SensorsFlicker: Als_common::enable, handle : 1, mode : 1, en : 0
+06-09 14:38:36.571 28086 28086 D SensorsFlicker: Als_common::sendCommand, send disable command
+06-09 14:38:36.574 16470 19201 I tflite  : Replacing 110 out of 126 node(s) with delegate (TfLiteXNNPackDelegate) node, yielding 7 partitions for the whole graph.
+06-09 14:38:36.584 16470 19215 I tflite  : Replacing 4 out of 4 node(s) with delegate (TfLiteXNNPackDelegate) node, yielding 1 partitions for the whole graph.
+06-09 14:38:36.584 16470 19203 I tflite  : Replacing 4 out of 4 node(s) with delegate (TfLiteXNNPackDelegate) node, yielding 1 partitions for the whole graph.
+06-09 14:38:36.593 16470 16539 D TransportRuntime.SQLiteEventStore: Storing event with priority=DEFAULT, name=COREML_ON_DEVICE_SOLUTIONS for destination cct
+06-09 14:38:36.602 16470 16539 D TransportRuntime.JobInfoScheduler: Upload for context TransportContext(cct, DEFAULT, MSRodHRwczovL2ZpcmViYXNlbG9nZ2luZy5nb29nbGVhcGlzLmNvbS92MGNjL2xvZy9iYXRjaD9mb3JtYXQ9anNvbl9wcm90bzNc) is already scheduled. Returning...
+06-09 14:38:36.654 21118 15578 D C2SoftVpxEnc: bytes generated 1312
+06-09 14:38:36.726 28066 17803 D BufferPoolAccessor2.0: bufferpool2 0xe5707528 : 0(0 size) total buffers - 0(0 size) used buffers - 35/40 (recycle/alloc) - 5/39 (fetch/transfer)
+06-09 14:38:36.726 28066 17803 D BufferPoolAccessor2.0: bufferpool2 0xe5705fc8 : 0(0 size) total buffers - 0(0 size) used buffers - 28/33 (recycle/alloc) - 5/31 (fetch/transfer)
+06-09 14:38:36.726 28066 17803 D BufferPoolAccessor2.0: bufferpool2 0xe5707d08 : 0(0 size) total buffers - 0(0 size) used buffers - 43/48 (recycle/alloc) - 5/47 (fetch/transfer)
+06-09 14:38:36.726 28066 17803 D BufferPoolAccessor2.0: evictor expired: 3, evicted: 3
+06-09 14:38:36.727 16470 16522 E TestRunner: failed: recognizerImageModeResultFallsWithinAcceptedRange(com.google.mediapipe.examples.gesturerecognizer.GestureRecognizerTest)
+06-09 14:38:36.727 16470 16522 E TestRunner: ----- begin exception -----
+06-09 14:38:36.729 16470 16522 E TestRunner: org.junit.ComparisonFailure: expected:<[Thumb_Up]> but was:<[closed_palm]>
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at org.junit.Assert.assertEquals(Assert.java:115)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at org.junit.Assert.assertEquals(Assert.java:144)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at com.google.mediapipe.examples.gesturerecognizer.GestureRecognizerTest.recognizerImageModeResultFallsWithinAcceptedRange(GestureRecognizerTest.kt:233)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at androidx.test.internal.runner.junit4.statement.RunBefores.evaluate(RunBefores.java:80)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+06-09 14:38:36.729 16470 16522 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2415)
+06-09 14:38:36.729 16470 16522 E TestRunner: ----- end exception -----
+06-09 14:38:36.731 16470 16522 I TestRunner: finished: recognizerImageModeResultFallsWithinAcceptedRange(com.google.mediapipe.examples.gesturerecognizer.GestureRecognizerTest)

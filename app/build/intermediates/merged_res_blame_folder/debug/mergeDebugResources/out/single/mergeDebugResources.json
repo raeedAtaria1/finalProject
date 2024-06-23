@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\drawable_medal_scores.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\drawable\\medal_scores.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\drawable_img.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\drawable_rounded_edittext.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\drawable\\rounded_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\drawable_ic_baseline_photo_camera_24.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\drawable\\ic_baseline_photo_camera_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\layout_activity_score.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\layout\\activity_score.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\drawable_background_signup.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\drawable\\background_signup.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\drawable_media_pipe_banner.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\drawable\\media_pipe_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\raw_background_music.mp3.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\raw\\background_music.mp3"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-debug-62:/layout_activity_home.xml.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-64:/layout/activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\drawable_profile_icon.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\drawable\\profile_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\drawable_rounded_button.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\raw_beep.mp3.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\raw\\beep.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\layout_fragment_camera.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\drawable_ic_minus.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\drawable\\ic_minus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\layout_item_gesture_recognizer_result.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\layout\\item_gesture_recognizer_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\drawable_ic_baseline_photo_library_24.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\drawable\\ic_baseline_photo_library_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\layout_list_item_score.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\layout\\list_item_score.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\drawable_background_login.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\drawable\\background_login.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\menu_menu_bottom_nav.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\menu\\menu_bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\color_bg_nav_item.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\color\\bg_nav_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\layout_info_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\layout\\info_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\drawable_radio_unchecked.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\drawable\\radio_unchecked.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\drawable_ic_plus.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\drawable\\ic_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\drawable_custom_radio_button.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\drawable\\custom_radio_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\drawable_icn_chevron_up.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\drawable\\icn_chevron_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-debug-62:\\drawable_stop.png.flat",
+        "source": "C:\\Users\\Hp\\.gradle\\daemon\\8.6\\com.google.mediapipe.examples.gesturerecognizer.app-main-64:\\drawable\\stop.png"
+    }
+]

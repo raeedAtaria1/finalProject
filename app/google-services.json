@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078289571967",
+    "project_id": "earth-keepers",
+    "storage_bucket": "earth-keepers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078289571967:android:64ab33903beda4c7489f4a",
+        "android_client_info": {
+          "package_name": "com.google.mediapipe.examples.gesturerecognizer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX--kXsah_UQPq0HbMuBmoRd96joNBU30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
